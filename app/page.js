@@ -86,7 +86,7 @@ export default function Home() {
                         Step 2
                       </h3>
                       <p class="text-lg text-gray-500 ">
-                        We'll make a design render of your jewellery and send it
+                        We&apos;ll make a design render of your jewellery and send it
                         to you for approval.
                       </p>
                     </div>
