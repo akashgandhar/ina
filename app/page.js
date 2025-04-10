@@ -36,22 +36,22 @@ export default function Home() {
       <section class="py-20 overflow-hidden bg-gray-100 ">
         <div class="container px-4 mx-auto">
           <div class="max-w-5xl mx-auto">
-            <div class="flex flex-wrap items-center -mx-5">
+            <div class="flex flex-wrap -mx-5">
               <div class="w-full lg:w-1/2 px-5 mb-20 lg:mb-0">
                 <div class="max-w-md">
-                  <span class="text-lg font-bold text-[#c86cb4] ">
-                    Getting Started with INA Jewels
+                  <span class="text-3xl font-bold text-[#c86cb4] ">
+                    Getting Started with<br/> INA Jewels
                   </span>
-                  <h2 class="mt-12 mb-10 text-5xl font-extrabold leading-tight text-gray-800 ">
+                  <h4 class="mt-12 mb-10 text-lg font-extrabold leading-tight text-gray-800 ">
                     Customize your Own Jewelry.
-                  </h2>
+                  </h4>
                   <p class="mb-16 text-lg text-gray-600 ">
                     At INA Jewel, our exceptionally skilled jewellery designers
                     will bring your visions to life, recreating designs
                     according to your demands and preferences.
                   </p>
                   <a
-                    class="inline-block px-12 py-4 text-white font-bold bg-[#c86cb4]/80 hover:bg-[#c86cb4] rounded-full shadow-lg transition duration-200"
+                    class="inline-block px-12 py-4 text-white font-bold bg-green-500 hover:bg-green-600 rounded-full shadow-lg transition duration-200"
                     href="#"
                   >
                     Whatsapp Now
