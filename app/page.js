@@ -43,10 +43,10 @@ export default function Home() {
                     Getting Started with<br/> INA Jewels
                   </span>
                   <h4 class="mt-12 mb-10 text-lg font-extrabold leading-tight text-gray-800 ">
-                    Customize your Own Jewelry.
+                    Customize your Own Jewellery.
                   </h4>
                   <p class="mb-16 text-lg text-gray-600 ">
-                    At INA Jewel, our exceptionally skilled jewellery designers
+                    At INA Jewels, our exceptionally skilled jewellery designers
                     will bring your visions to life, recreating designs
                     according to your demands and preferences.
                   </p>
