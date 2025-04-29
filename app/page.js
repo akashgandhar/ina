@@ -52,7 +52,7 @@ export default function Home() {
                   </p>
                   <a
                     class="inline-block px-12 py-4 text-white font-bold bg-green-500 hover:bg-green-600 rounded-full shadow-lg transition duration-200"
-                    href="#"
+                   target="_blank"  href="https://api.whatsapp.com/send?phone=%2B919990699313&text=Hi,%20I%20want%20custom%20jewellery."
                   >
                     Whatsapp Now
                   </a>
